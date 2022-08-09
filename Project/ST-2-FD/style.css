@@ -1,0 +1,45 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+      background-color: rgb(173, 194, 235); 
+     width: 100%;
+     /* background: linear-gradient( #C54B6C,#E5B3BB);
+     background-repeat: no-repeat; */
+     
+}
+#h{
+    font-size: xx-large;
+    text-align: center;
+   
+}
+#main-class{
+    text-align: center;
+    height: 80%;
+    padding: 12px 20px;
+    box-sizing: border-box
+
+}
+#main-class button{
+    background-color:rgb(112, 148, 219);
+    text-align: center;
+    height: 50px;
+    width: 20%;
+    font-size: larger;
+    
+
+}
+#nam{
+    height: 70px;
+    width: 70%;
+}
+::placeholder{
+    font-size: 20px;
+    text-align: center;
+    color:rgb(51, 102, 204);
+}
+#createShape{
+    margin-left: 50%;
+    margin-right: 5%;
+    text-align: center;
+    transition-duration: 4s;
+    transition-delay: 1s;
+}
